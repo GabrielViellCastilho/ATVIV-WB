@@ -6,7 +6,7 @@ Este projeto é composto por um front-end em React com TypeScript e um back-end 
 
 Antes de começar, verifique se você tem as seguintes ferramentas instaladas:
 
-- [Node.js](https://nodejs.org/) (versão recomendada: 18.x ou superior)
+- [Node.js](https://nodejs.org/) (versão recomendada: 20.x ou superior)
 - [Git](https://git-scm.com/)
 - [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (versão 17 ou superior)
 
